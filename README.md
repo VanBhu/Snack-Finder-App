@@ -2,3 +2,5 @@
 An app where you input what type of food you feel like eating and specific snacks are shown to you.
 
 Made using SwiftUI and the Gemini API.
+
+To test it you must use your own API key.
